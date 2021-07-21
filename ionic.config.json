@@ -1,0 +1,7 @@
+{
+  "name": "OpenDespatch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

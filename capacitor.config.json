@@ -1,0 +1,6 @@
+{
+	"appId": "com.opendespatch",
+	"appName": "OpenDespatch",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
